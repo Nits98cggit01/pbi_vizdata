@@ -17,7 +17,6 @@
 import os
 import time
 import pandas as pd
-import shutil
 import re
 from powerbiclient import Report, models
 from powerbiclient.authentication import InteractiveLoginAuthentication
