@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 import os
 
-VERSION = '0.0.2'
+VERSION = '0.2'
 DESCRIPTION = 'Extracts visual table data from powerbi report'
 LONG_DESCRIPTION = 'A package that exports the visual table data into csv'
 
