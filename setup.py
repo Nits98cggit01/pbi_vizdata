@@ -13,6 +13,7 @@ setup(
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
+    py_modules = ['render_pbi_report','get_visual_data'],
     packages=find_packages(),
     keywords=['python', 'powerbi','powerbiclient'],
     install_requires=[
